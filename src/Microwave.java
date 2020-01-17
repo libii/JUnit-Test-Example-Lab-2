@@ -54,18 +54,6 @@ public class Microwave {
         }
     }
 
-    /**
-     * Takes in a user power level if 1 or 2 it
-     * will set the microwaves powerlevel and if
-     * not it does nothing
-     * @param x - takes users power level
-     */
-    public void changePowerLevel(int x){
-        if (x== 1 || x==2)
-        {
-            powerLevel=x;
-        }
-    }
 
     /**
      * Resets the seconds private class variable

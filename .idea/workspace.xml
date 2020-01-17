@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a76d0fd3-fa82-4554-a970-2d8bb43a14c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MicrowaveTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUnit_Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit_Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TesterBefore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesterBefore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Microwave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Microwave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MicrowaveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MicrowaveTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MicrowaveTest">
     <configuration name="TesterBefore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TesterBefore" />
       <module name="JUnit_Test" />
@@ -56,8 +55,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MicrowaveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JUnit_Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MicrowaveTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MicrowaveTest" />
         <item itemvalue="Application.TesterBefore" />
       </list>
     </recent_temporary>
@@ -88,6 +97,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="925" height="230" key="GridCell.Tab.0.bottom" timestamp="1579272461421">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="925" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579272461421" />
+    <state width="925" height="230" key="GridCell.Tab.0.center" timestamp="1579272461420">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="925" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1579272461420" />
+    <state width="925" height="230" key="GridCell.Tab.0.left" timestamp="1579272461419">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="925" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1579272461419" />
+    <state width="925" height="230" key="GridCell.Tab.0.right" timestamp="1579272461420">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="925" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1579272461420" />
     <state x="668" y="362" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579269525633">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
