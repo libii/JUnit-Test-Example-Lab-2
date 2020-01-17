@@ -1,5 +1,3 @@
-
-
 /**
  * Describe the problem:
  * The problem asks for four options: one for increase time by 30 seconds, one for switching levels between 1 to 2, one for reset, and one for start
@@ -21,34 +19,34 @@ public class TesterBefore {
         Microwave testMicrowave = new Microwave();
 
 
-        //Testing Intial Constructor
+        //Testing Initial Constructor
+        System.out.println("Expected: Cooking for 0 seconds at Power Level 1");
         System.out.print("Actual: ");
         System.out.println(testMicrowave.pressStart());
-        System.out.println("Expected: Cooking for 0 seconds at Power Level 1");
 
         //Switch Power Level
         testMicrowave.switchPowerLevel();
 
         //Test Power Level
+        System.out.println("Expected: Cooking for 0 seconds at Power Level 2");
         System.out.print("Actual: ");
         System.out.println(testMicrowave.pressStart());
-        System.out.println("Expected: Cooking for 0 seconds at Power Level 2");
 
         //Switch to 1 minute
         testMicrowave.add30Seconds();
         testMicrowave.add30Seconds();
 
         //Test Power Level
+        System.out.println("Expected: Cooking for 60 seconds at Power Level 2");
         System.out.print("Actual: ");
         System.out.println(testMicrowave.pressStart());
-        System.out.println("Expected: Cooking for 60 seconds at Power Level 2");
 
         //Reset Microwave
         testMicrowave.reset();
 
         //Test Reset
+        System.out.println("Expected: Cooking for 0 seconds at Power Level 2");
         System.out.print("Actual: ");
         System.out.println(testMicrowave.pressStart());
-        System.out.println("Expected: Cooking for 0 seconds at Power Level 2");
     }
 }

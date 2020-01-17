@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a76d0fd3-fa82-4554-a970-2d8bb43a14c8" name="Default Changelist" comment="" />
+    <list default="true" id="a76d0fd3-fa82-4554-a970-2d8bb43a14c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MicrowaveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnit_Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit_Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesterBefore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesterBefore.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,17 +16,37 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WWaW0OSLymkIqOSKwTEfZRMBm8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="TesterBefore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -61,5 +86,15 @@
       <updated>1579267832651</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="668" y="362" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579269525633">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="668" y="362" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1579269525633" />
+    <state x="735" y="195" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579269417558">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="735" y="195" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1579269417558" />
   </component>
 </project>
